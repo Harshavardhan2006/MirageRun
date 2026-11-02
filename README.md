@@ -6,7 +6,7 @@ As the player progresses, the running speed gradually increases, making the game
 
 This project was developed as part of the Game Design and Development course at the School of Computer Science and Artificial Intelligence, SR University, during the academic year 2025–2026.
 
-![Mirage Run Gameplay](docs/screenshots/gameplay.png)
+![Mirage Run Gameplay](gameplay.png)
 
 ## Game Features
 
