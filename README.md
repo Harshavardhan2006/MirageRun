@@ -129,7 +129,11 @@ The game is divided into multiple C# scripts, with each script handling a partic
 
 | Name | Roll Number |
 |---|---|
-| Add team member | Roll number |
+| Kokkonda Harshavardhan | 2303A51406 |
+| Veeranna Banoth | 2303A51390 |
+| Sriram Laxmi Shetty | 2303A51479 |
+| Sriram Alla | 2303A51654 |
+| Tirumala Konda Sri Charan Tej | 2303A51789 |
 
 **Project Guide:**  
 Dr. Vijaya Chandra Jadala  
