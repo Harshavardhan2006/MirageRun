@@ -1,4 +1,4 @@
-# Mirage Run 🎮
+# Mirage Run 
 
 **Mirage Run** is a 3D endless runner game developed using Unity 6 and C#. The game takes place in a desert environment where players control a character running along an endless track. The main objective is to survive as long as possible by switching between lanes, jumping over obstacles, avoiding hazards, and collecting coins and gems along the way.
 
