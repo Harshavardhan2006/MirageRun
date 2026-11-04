@@ -137,7 +137,7 @@ The game is divided into multiple C# scripts, with each script handling a partic
 
 **Project Guide:**  
 Dr. Vijaya Chandra Jadala  
-Assistant Professor  
+Associate Professor  
 School of Computer Science and Artificial Intelligence, SR University.
 
 ## Credits
